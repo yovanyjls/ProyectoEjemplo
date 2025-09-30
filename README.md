@@ -11,3 +11,9 @@ aquí también
 
 
 cambio en readme
+
+# Documentación 2 (Dev 2)
+Documentacion del desarrollador 2
+
+#Documentación del desarrollador uno
+
